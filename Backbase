@@ -1,0 +1,21 @@
+=====================================
+Backbase | Systems Engineer (DevOps)
+=====================================
+
+
+ASSIGNMENT:
+===========
+Please complete the attached take home test.
+
+1. Script (whatever language you would like) that prints:
+ 
+     Hello World,
+     I am {first and last name}
+ 
+     Making sure it's on 2 separate lines. 
+ 
+2. Scenario: There is a company called Umbrella Corp. They have servers both on premises, as well as in a cloud instance(Azure,AWS,GCE). There are developers that are both on-premises and remote. Please supply an infrastructure diagram that shows a hypothetical layout of what this could look like.
+ 
+Also please supply a deployment flow of developer code from laptop to a production environment that includes an SCM instance of some sort (Github,Bitbucket,etc.). 
+
+
